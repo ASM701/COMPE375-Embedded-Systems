@@ -34,28 +34,27 @@ Lab assignments for an embedded systems course at San Diego State University, fo
 COMPE375-Embedded-Systems/
 ├── Lab 1/
 │   ├── LAB 1.c
-│   └── LAB 1 REPORT.pdf
+│   
 ├── Lab 2/
 │   ├── LAB 2.c
-│   └── LAB 2 REPORT.pdf
+│   
 ├── Lab 3/
 │   ├── LAB 3.c
-│   └── LAB 3 REPORT.pdf
+│   
 ├── Lab 4/
 │   ├── LAB 4.c
-│   └── LAB 4 REPORT.pdf
+│   
 ├── Lab 5/
 │   ├── LAB 5.c
-│   └── LAB 5 REPORT.pdf
+│  
 ├── Lab 6/
 │   ├── LAB 6.c
-│   └── LAB 6 REPORT.pdf
+│   
 ├── Lab 7/
 │   ├── LAB 7.c
-│   └── LAB 7 REPORT.pdf
+│   
 └── Lab 8/
     ├── LAB 8.c
-    └── LAB 8 REPORT.pdf
 ```
 
 ---
